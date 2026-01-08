@@ -1,5 +1,11 @@
 # Hi there! I'm Seungmin Choi (C.Seungmin) 👋
 
+* **Catholic University of Korea - Computer Science and Information Engineering**
+    > **2022.03 - 2026.02**
+
+* **AWS Cloud Club at The Catholic University of Korea**
+    > **2024.03 - 2024.06**
+
 ## 🚀 Working Set
 
 ### 🎓 Woori FISA Cloud Engineering
@@ -25,10 +31,10 @@
 
     * **[OMV 7 to OMV 8 with ZFS & PVE - 시스템 업그레이드](https://github.com/Kumin-91/OMV7-to-OMV8-Upgrade)**
 
-## 🎖️ Certifications
+## 🎖️ Certifications (Credly)
 
-[<img src="https://img.shields.io/badge/CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white">](https://www.credly.com/earner/earned/badge/d19c1157-046a-4abd-a5eb-d80001751209)
-[<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">](https://www.credly.com/earner/earned/badge/c13c536e-37e4-4b65-b3fd-23ce00185629)
+[<img src="https://img.shields.io/badge/CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white">](https://www.credly.com/badges/d19c1157-046a-4abd-a5eb-d80001751209/public_url)
+[<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">](https://www.credly.com/badges/c13c536e-37e4-4b65-b3fd-23ce00185629/public_url)
 
 ## 🛠 Tech Skills
 
