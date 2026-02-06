@@ -10,7 +10,7 @@
 
 ### 🎓 Woori FISA Cloud Engineering
 > **2025.12.30 - Present**
-* **Education & Training:** 우리 FISA 클라우드 엔지니어링 과정을 통해 클라우드 인프라와 DevOps 역량을 쌓고 있습니다.
+* **Education & Training:** Woori FISA 클라우드 엔지니어링 과정을 통해 클라우드 인프라와 DevOps 역량을 쌓고 있습니다.
 * **Log:** [📝 학습 내용 정리 로그](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
 
 ## 🛠 Personal Working Set
@@ -19,13 +19,13 @@
 
 * **Experience:**
 
-    * **ZFS & Data Management:** ZFS 파일 시스템 도입을 통한 데이터 안정성 확보 및 스토리지 가용성 관리
+    * **ZFS & Data Management:** ZFS 파일 시스템 도입을 통한 데이터 무결성 확보 및 스토리지 가용성 관리
 
     * **NAS Optimization:** OMV 환경에서의 리소스 튜닝 및 개인화된 네트워크 스토리지 서비스 최적화
 
-    * **Secure Remote Access:** Tailscale(WireGuard 기반)을 활용하여 포트 포워딩 없이 안전한 프라이빗 메쉬 네트워크 및 원격 관리 환경 구축
+    * **Secure Remote Access:** Tailscale (WireGuard 기반)을 활용하여 포트 포워딩 없이 안전한 프라이빗 메시 네트워크 및 원격 관리 환경 구축
 
-    * **Service Orchestration:** Docker를 활용하여 다양한 서비스(Self-hosted)를 컨테이너 단위로 배포 및 운영
+    * **Service Orchestration:** Docker를 활용하여 다양한 서비스를 컨테이너 단위로 배포 및 운영
 
 * **Project:**
 
