@@ -1,37 +1,69 @@
-# Hi there! I'm Seungmin Choi (C.Seungmin) 👋
+# 👋 Hi there! I'm Seungmin Choi (C.Seungmin)
 
-* **Catholic University of Korea - Computer Science and Information Engineering**
+> **"주연이 빛날 수 있도록 뒤를 지키는 스태프처럼"**
+
+> **"Like the backstage crew who guards the rear so the lead can shine."**
+
+* **The Catholic University of Korea**
+
     > **2022.03 - 2026.02**
 
-* **AWS Cloud Club at The Catholic University of Korea**
+    * **B.S. in Computer Science and Information Engineering**
+
+* **AWS Cloud Club @ CUK**
+
     > **2024.03 - 2024.06**
+
+    * **Member / Started as Cloud Enthusiast (Achieved SAA in Aug 2025)**
 
 ## 🚀 Working Set
 
 ### 🎓 Woori FISA Cloud Engineering
-> **2025.12.30 - Present**
-* **Education & Training:** Woori FISA 클라우드 엔지니어링 과정을 통해 클라우드 인프라와 DevOps 역량을 쌓고 있습니다.
-* **Log:** [📝 학습 내용 정리 로그](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
+
+> **2025.12.30 - 2026.06.25 (Expected)**
+
+* **Education & Training:** Advancing comprehensive skills in Cloud-native DevOps and Enterprise Virtualization (ESXi/vCenter) through the Woori FISA Cloud Engineering program.
+
+* **Log:** [📝 Learning & Engineering Log](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
+
+* **Projects**
+
+    * **[VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab)**
+
+    * **[Technical Seminar: VPN](https://github.com/Kumin-91/seminar-vpn)**
+
+    * **[Learning Curator - n8n & Notion Refiner](https://github.com/Woori-FISA-n8n/n8n-notion-refiner)**
+
+    * **[Card Data Analysis with Elastic Stack (ES + Kibana)](https://github.com/mo-seo-li/wooricard_analysis)**
+
+    * **[Java Stream API: Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations)**
+
 
 ## 🛠 Personal Working Set
 
-### 🐧 리눅스 홈서버 구축 및 운영
+### 🐧 Linux Home Server Setup & Operations
 
-* **Experience:**
+* **Experience**
 
-    * **ZFS & Data Management:** ZFS 파일 시스템 도입을 통한 데이터 무결성 확보 및 스토리지 가용성 관리
+    * **ZFS & Data Management:** Implemented ZFS to ensure data integrity through snapshots and managed high-availability storage pools.
 
-    * **NAS Optimization:** OMV 환경에서의 리소스 튜닝 및 개인화된 네트워크 스토리지 서비스 최적화
+    * **NAS Optimization:** Performed resource tuning and customized storage services within the OpenMediaVault (OMV) environment.
 
-    * **Secure Remote Access:** Tailscale (WireGuard 기반)을 활용하여 포트 포워딩 없이 안전한 프라이빗 메시 네트워크 및 원격 관리 환경 구축
+    * **Secure Remote Access:** Established a secure Private Mesh Network using Tailscale, enabling remote management without port forwarding.
 
-    * **Service Orchestration:** Docker를 활용하여 다양한 서비스를 컨테이너 단위로 배포 및 운영
+    * **Service Orchestration:** Deployed and managed diverse self-hosted services using Docker containers for modularity and scalability.
 
-* **Project:**
+* **Projects**
 
-    * **[OMV 7 to OMV 8 with ZFS & PVE - 시스템 업그레이드](https://github.com/Kumin-91/OMV7-to-OMV8-Upgrade)**
+    * **[OMV 7 to OMV 8 Upgrade with ZFS & PVE](https://github.com/Kumin-91/OMV7-to-OMV8-Upgrade)**
+
+        * A comprehensive guide on migrating a ZFS-based NAS to OMV 8, specifically focusing on PVE kernel compatibility and system-level dependencies.
+
+        * 🇰🇷 (Native) | 🇺🇸 🇯🇵 (AI-translated)
  
-    * **[Docker-2-Notion (D2N) - 도커 상태 실시간 노션 동기화 및 자동화](https://github.com/Kumin-91/Docker-2-Notion)**
+    * **[Docker-2-Notion (D2N)](https://github.com/Kumin-91/Docker-2-Notion)**
+
+        * Automation tool for real-time Docker container status synchronization with Notion API.
 
 ## 🎖️ Certifications (Credly)
 
@@ -41,18 +73,34 @@
 ## 🛠 Tech Skills
 
 ### Operating System
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-### Infrastructure & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Tailscale](https://img.shields.io/badge/tailscale-9993FF?style=for-the-badge&logo=tailscale&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Virtualization & Cloud
 
-### Languages & Tools
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware vCenter](https://img.shields.io/badge/vCenter-0095D3?style=for-the-badge&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-4433E1?style=for-the-badge&logo=tailscale&logoColor=white)
+
+### Automation & Scripting
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🌐 Languages
+
+* **🇰🇷 Korean:** Native
+
+* **🇺🇸 English:** Intermediate (Capable of understanding technical documentation and specialized lectures)
+
+* **🇯🇵 Japanese:** Conversational (Able to communicate in daily scenarios and basic workplace interactions) 
