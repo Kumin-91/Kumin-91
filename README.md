@@ -4,13 +4,13 @@
 
 > **"Like the backstage crew who guards the rear so the lead can shine."**
 
-* **The Catholic University of Korea**
+* 🎓 **The Catholic University of Korea**
 
     > **2022.03 - 2026.02**
 
     * **B.S. in Computer Science and Information Engineering**
 
-* **AWS Cloud Club @ CUK**
+* 🎓 **AWS Cloud Club at The Catholic University of Korea**
 
     > **2024.03 - 2024.06**
 
@@ -18,7 +18,7 @@
 
 ## 🚀 Working Set
 
-### 🎓 Woori FISA Cloud Engineering
+### 🏫 Woori FISA Cloud Engineering
 
 > **2025.12.30 - 2026.06.25 (Expected)**
 
@@ -38,10 +38,11 @@
 
     * **[Java Stream API: Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations)**
 
-
-## 🛠 Personal Working Set
-
 ### 🐧 Linux Home Server Setup & Operations
+
+* **Live Status:** [🚧 TBD](https://status.aoimiu.com)
+
+    > **Public status page (via Uptime Kuma) is currently under construction.**
 
 * **Experience**
 
@@ -55,15 +56,11 @@
 
 * **Projects**
 
-    * **[OMV 7 to OMV 8 Upgrade with ZFS & PVE](https://github.com/Kumin-91/OMV7-to-OMV8-Upgrade)**
+    * **[Docker-2-Notion (D2N)](https://github.com/Kumin-91/Docker-2-Notion):** Automation tool for real-time Docker container status synchronization with Notion API.
 
-        * A comprehensive guide on migrating a ZFS-based NAS to OMV 8, specifically focusing on PVE kernel compatibility and system-level dependencies.
+    * **[OMV 7 to OMV 8 Upgrade with ZFS & PVE](https://github.com/Kumin-91/OMV7-to-OMV8-Upgrade):** A comprehensive guide on migrating a ZFS-based NAS to OMV 8, specifically focusing on PVE kernel compatibility and system-level dependencies.
 
         * 🇰🇷 (Native) | 🇺🇸 🇯🇵 (AI-translated)
- 
-    * **[Docker-2-Notion (D2N)](https://github.com/Kumin-91/Docker-2-Notion)**
-
-        * Automation tool for real-time Docker container status synchronization with Notion API.
 
 ## 🎖️ Certifications (Credly)
 
