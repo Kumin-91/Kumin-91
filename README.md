@@ -4,6 +4,12 @@
 
 > **"Like the backstage crew who guards the rear so the lead can shine."**
 
+* ✉️ **Contact**
+
+    * **[LinkedIn](https://www.linkedin.com/in/csmin3/)**
+
+    * **[Email](mailto:contact@aoimiu.com):** contact@aoimiu.com
+
 * 🎓 **The Catholic University of Korea**
 
     > **2022.03 - 2026.02**
@@ -28,21 +34,19 @@
 
 * **Projects**
 
-    * **[VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab)**
+    * **[VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab):** An enterprise-grade virtualization project utilizing VMware ESXi and vCenter. Spearheaded the network and foundational infrastructure design to establish a robust environment for implementing advanced clustering features such as DRS, HA, vMotion, and vSAN.
 
-    * **[Technical Seminar: VPN](https://github.com/Kumin-91/seminar-vpn)**
+    * **[Technical Seminar: VPN](https://github.com/Kumin-91/seminar-vpn):** Benchmarked the performance of WireGuard vs. OpenVPN and demonstrated infrastructure management cases using Tailscale (WireGuard-based SaaS), with a focus on operational considerations and optimization.
 
-    * **[Learning Curator - n8n & Notion Refiner](https://github.com/Woori-FISA-n8n/n8n-notion-refiner)**
+    * **[Learning Curator - n8n & Notion Refiner](https://github.com/Woori-FISA-n8n/n8n-notion-refiner):** A learning curator project that automates Notion database updates by orchestrating Notion and AI APIs through n8n.
 
-    * **[Card Data Analysis with Elastic Stack (ES + Kibana)](https://github.com/mo-seo-li/wooricard_analysis)**
+    * **[Card Data Analysis with Elastic Stack (ES + Kibana)](https://github.com/mo-seo-li/wooricard_analysis):** Analyzed real-world Woori Card datasets using the Elastic Stack to visualize consumption patterns by age group and derive data-driven customer acquisition strategies.
 
-    * **[Java Stream API: Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations)**
+    * **[Java Stream API: Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations):** A performance-focused case study analyzing the impact of excessive intermediate operation usage within the Java Stream API on overall system efficiency.
 
 ### 🐧 Linux Home Server Setup & Operations
 
-* **Live Status:** [🚧 TBD](https://status.aoimiu.com)
-
-    > **Public status page (via Uptime Kuma) is currently under construction.**
+* **Live Status:** [📊 Server Status](https://status.aoimiu.com/status/metatron)
 
 * **Experience**
 
