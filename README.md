@@ -2,7 +2,7 @@
 
 > **"주연이 빛날 수 있도록 뒤를 지키는 스태프처럼"**
 
-> **"Like the backstage crew who guards the rear so the lead can shine."**
+> **"Like the backstage crew, supporting from behind so the lead can shine in the spotlight."**
 
 * ✉️ **Contact**
 
@@ -23,6 +23,14 @@
     * **Member / Started as Cloud Enthusiast (Achieved SAA in Aug 2025)**
 
 ## 🚀 Working Set
+
+### 📚 Personal Study Log
+
+* **[Rocky Linux & Podman Study](https://github.com/Kumin-91/rocky-linux-study)**
+
+* **[Certification - CCNP ENCOR Study](https://github.com/Kumin-91/ccnp-encor-study)**
+
+    > **TBD**
 
 ### 🏫 Woori FISA Cloud Engineering
 
