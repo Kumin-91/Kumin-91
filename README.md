@@ -24,13 +24,9 @@
 
 ## 🚀 Working Set
 
+<!---
 ### 📚 Personal Study Log
-
-* **[Rocky Linux & Podman Study](https://github.com/Kumin-91/rocky-linux-study)**
-
-* **[Certification - CCNP ENCOR Study](https://github.com/Kumin-91/ccnp-encor-study)**
-
-    > **TBD** 
+--->
 
 ### 🧑🏻‍💻 Personal Projects
 
