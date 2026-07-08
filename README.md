@@ -34,11 +34,13 @@
 
 ### 🏫 Woori FISA Cloud Engineering
 
-> **2025.12.30 - 2026.06.25 (Expected)**
+> **2025.12.30 - 2026.06.25**
 
 * **Education & Training:** Advancing comprehensive skills in Cloud-native DevOps and Enterprise Virtualization (ESXi/vCenter) through the Woori FISA Cloud Engineering program.
 
 * **Log:** [📝 Learning & Engineering Log](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
+
+* **Final Project:** [📄 GlobalBridge — a financial bridge for migrant workers](https://github.com/Sangam-Beavers)
 
 * **Projects**
 
@@ -48,7 +50,7 @@
 
         * **[MDI Core Repository](https://github.com/Kumin-91/mdi-yang-lab)**
 
-    * **[VMware TeamLab](https://github.com/wooxxo/VMware-TeamLab):** An enterprise-grade virtualization project utilizing VMware ESXi and vCenter. Spearheaded the network and foundational infrastructure design to establish a robust environment for implementing advanced clustering features such as DRS, HA, vMotion, and vSAN.
+    * **[VMware TeamLab](https://github.com/Kumin-91/VMware-TeamLab):** An enterprise-grade virtualization project utilizing VMware ESXi and vCenter. Spearheaded the network and foundational infrastructure design to establish a robust environment for implementing advanced clustering features such as DRS, HA, vMotion, and vSAN.
 
     * **[Technical Seminar - VPN](https://github.com/Kumin-91/seminar-vpn):** Benchmarked the performance of WireGuard vs. OpenVPN and demonstrated infrastructure management cases using Tailscale (WireGuard-based SaaS), with a focus on operational considerations and optimization.
 
