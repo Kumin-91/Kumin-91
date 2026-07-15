@@ -22,11 +22,15 @@
 
     * **Member / Started as Cloud Enthusiast (Achieved SAA in Aug 2025)**
 
-## 🚀 Working Set
+* 🏫 **Woori FISA Cloud Engineering**
 
-<!---
-### 📚 Personal Study Log
---->
+    > **2025.12.30 - 2026.06.25**
+
+    * **Education & Training:** Advancing comprehensive skills in Cloud-native DevOps and Enterprise Virtualization (ESXi/vCenter) through the Woori FISA Cloud Engineering program.
+
+    * **Log:** [📝 Learning & Engineering Log](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
+
+## 🚀 Working Set
 
 ### 🧑🏻‍💻 Personal Projects
 
@@ -34,31 +38,25 @@
 
 ### 🏫 Woori FISA Cloud Engineering
 
-> **2025.12.30 - 2026.06.25**
-
-* **Education & Training:** Advancing comprehensive skills in Cloud-native DevOps and Enterprise Virtualization (ESXi/vCenter) through the Woori FISA Cloud Engineering program.
-
-* **Log:** [📝 Learning & Engineering Log](https://github.com/Kumin-91/Woori-FISA-Cloud-Engineering-Log)
-
 * **Final Project:** [📄 GlobalBridge — a financial bridge for migrant workers](https://github.com/Sangam-Beavers)
+
+    * **[DevOps Infra Repository](https://github.com/Sangam-Beavers/devops-infra-configs):** Architected an enterprise-grade, highly available Kubernetes cluster on vSphere, integrating pfSense HA, Cilium (eBPF), vSphere CSI/CPI, and Vault/ESO to provide a secure foundation for GitOps CI/CD pipelines.
+
+    * **[Site-to-Site VPN (On-Premise ↔ AWS)](https://github.com/Sangam-Beavers/devops-vpn-configs):** Built a highly available WireGuard VPN utilizing BGP (FRR) and AWS Auto-Scaling Groups for automated self-healing (< 5 min), fully resolving asymmetric routing for remote developers.
+
+    * **[AWS Cloud Infrastructure (IaC)](https://github.com/Sangam-Beavers/cloud-infra-iac):** Provisioned highly reproducible EKS environments using Terraform, featuring zero-trust secret management and fully automated cluster bootstrapping via a single make up-all command.
 
 * **Projects**
 
     * **[Technical Seminar - Beyond IaC: From Coding to Modeling with YANG](https://drive.google.com/file/d/1cAUwbZu6cfD87r-2kz-TrFJ65JMkffYU/view?usp=sharing):** Computers see syntax, but we see data. I leverage YANG modeling to inject physical and logical boundaries into infrastructure data, ensuring operational trust is built on a foundation of data-driven order.
 
-        * **[Presentation Script](https://drive.google.com/file/d/1vyUBZsC8_I4jJxb_dtQ2Pz-cq5DwPokX/view?usp=sharing)**
-
-        * **[MDI Core Repository](https://github.com/Kumin-91/mdi-yang-lab)**
+        * **[Presentation Script](https://drive.google.com/file/d/1vyUBZsC8_I4jJxb_dtQ2Pz-cq5DwPokX/view?usp=sharing)** | **[MDI Core Repository](https://github.com/Kumin-91/mdi-yang-lab)**
 
     * **[VMware TeamLab](https://github.com/Kumin-91/VMware-TeamLab):** An enterprise-grade virtualization project utilizing VMware ESXi and vCenter. Spearheaded the network and foundational infrastructure design to establish a robust environment for implementing advanced clustering features such as DRS, HA, vMotion, and vSAN.
 
     * **[Technical Seminar - VPN](https://github.com/Kumin-91/seminar-vpn):** Benchmarked the performance of WireGuard vs. OpenVPN and demonstrated infrastructure management cases using Tailscale (WireGuard-based SaaS), with a focus on operational considerations and optimization.
 
-    * **[Learning Curator - n8n & Notion Refiner](https://github.com/Woori-FISA-n8n/n8n-notion-refiner):** A learning curator project that automates Notion database updates by orchestrating Notion and AI APIs through n8n.
-
-    * **[Card Data Analysis with Elastic Stack (ES + Kibana)](https://github.com/mo-seo-li/wooricard_analysis):** Analyzed real-world Woori Card datasets using the Elastic Stack to visualize consumption patterns by age group and derive data-driven customer acquisition strategies.
-
-    * **[Java Stream API - Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations):** A performance-focused case study analyzing the impact of excessive intermediate operation usage within the Java Stream API on overall system efficiency.
+* **Other Study Projects:** [Learning Curator - n8n & Notion Refiner](https://github.com/Woori-FISA-n8n/n8n-notion-refiner) | [Card Data Analysis with Elastic Stack (ES + Kibana)](https://github.com/mo-seo-li/wooricard_analysis) | [Java Stream API - Optimization Case Study](https://github.com/Woori-FISA-n8n/Overusing-Intermediate-Operations)
 
 ### 🐧 Linux Home Server Setup & Operations
 
