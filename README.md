@@ -10,12 +10,6 @@
 
     * **[Email](mailto:contact@aoimiu.com):** contact@aoimiu.com
 
-* 📂 **Portfolio**
-
-   * **[Infrastructure Engineering Portfolio (KR)](https://c-seungmin.notion.site/csmin-portfolio-public-kr)**
- 
-   * **[Infrastructure Engineering Portfolio (EN)](https://c-seungmin.notion.site/csmin-portfolio-public-en)**
-
 * 🎓 **The Catholic University of Korea**
 
     > **2022.03 - 2026.02**
